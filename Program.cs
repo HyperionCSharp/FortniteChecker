@@ -8,8 +8,10 @@ namespace Fortnite
 {
     internal class Program
     {
+        public static string version = "0.1 - TESTING";
         static void Main(string[] args)
         {
+            
         }
     }
 }
