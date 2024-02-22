@@ -2,16 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Threading;
+using xNet;
 
 namespace Fortnite
 {
-    internal class Program
+    internal class Check
     {
-        static void Main(string[] args)
+        public static void Checking()
         {
-            Check.Checking();
         }
     }
 }
